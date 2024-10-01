@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.post{
+  width:30%;
+  margin: 0 auto;
+  border: 2px solid;
+  border-radius: 20px 20px 20px 20px / 25px 25px 25px 25px;
+}
+
